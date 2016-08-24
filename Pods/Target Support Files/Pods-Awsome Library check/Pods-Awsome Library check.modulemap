@@ -1,0 +1,6 @@
+framework module Pods_Awsome_Library_check {
+  umbrella header "Pods-Awsome Library check-umbrella.h"
+
+  export *
+  module * { export * }
+}
